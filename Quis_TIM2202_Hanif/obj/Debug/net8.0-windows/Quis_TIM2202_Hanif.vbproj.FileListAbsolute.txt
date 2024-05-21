@@ -1,0 +1,16 @@
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\bin\Debug\net8.0-windows\Quis_TIM2202_Hanif.exe
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\bin\Debug\net8.0-windows\Quis_TIM2202_Hanif.deps.json
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\bin\Debug\net8.0-windows\Quis_TIM2202_Hanif.runtimeconfig.json
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\bin\Debug\net8.0-windows\Quis_TIM2202_Hanif.dll
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\bin\Debug\net8.0-windows\Quis_TIM2202_Hanif.pdb
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.Form1.resources
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.vbproj.GenerateResource.cache
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.AssemblyInfoInputs.cache
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.AssemblyInfo.vb
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.vbproj.CoreCompileInputs.cache
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.dll
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\refint\Quis_TIM2202_Hanif.dll
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.pdb
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\Quis_TIM2202_Hanif.genruntimeconfig.cache
+D:\Hanif\Coding\Visual Basic\Quis_TIM2202_Hanif\Quis_TIM2202_Hanif\obj\Debug\net8.0-windows\ref\Quis_TIM2202_Hanif.dll

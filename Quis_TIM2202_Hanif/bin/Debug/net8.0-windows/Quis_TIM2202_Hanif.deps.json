@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quis_TIM2202_Hanif/1.0.0": {
+        "runtime": {
+          "Quis_TIM2202_Hanif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quis_TIM2202_Hanif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
